@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "784963727307",
+    "project_id": "authentication-60297",
+    "storage_bucket": "authentication-60297.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:784963727307:android:d8319dcce852681717104e",
+        "android_client_info": {
+          "package_name": "ru.perelyginva.authentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "784963727307-a0fbhgjt4smo54i8s6l9rhdlerhjkki1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0d3pqcb4AbNKDXNM6mPzF2GFfxrN8xak"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "784963727307-a0fbhgjt4smo54i8s6l9rhdlerhjkki1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
